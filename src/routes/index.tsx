@@ -550,7 +550,7 @@ function Footer() {
           "AI is not just making cities smarter — it is making life better."
         </p>
         <div className="mt-10 flex flex-col items-center justify-between gap-4 border-t border-white/5 pt-8 text-xs text-white/50 sm:flex-row">
-          <span>© {new Date().getFullYear()} NeonCities — A vision of intelligent urban futures.</span>
+          <span>© {new Date().getFullYear()} AI IN SMART CITY | Building Intelligent Cities for a Smarter Tomorrow. All Rights Reserved.</span>
           <span>Crafted with neon light & neural nets.</span>
         </div>
       </div>
